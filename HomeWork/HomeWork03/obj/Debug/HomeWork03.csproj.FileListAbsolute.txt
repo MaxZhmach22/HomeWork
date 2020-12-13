@@ -1,0 +1,7 @@
+C:\Users\Max\Desktop\GeekBrains\C#\HWRepo\HomeWork\HomeWork03\bin\Debug\HomeWork03.exe.config
+C:\Users\Max\Desktop\GeekBrains\C#\HWRepo\HomeWork\HomeWork03\bin\Debug\HomeWork03.exe
+C:\Users\Max\Desktop\GeekBrains\C#\HWRepo\HomeWork\HomeWork03\bin\Debug\HomeWork03.pdb
+C:\Users\Max\Desktop\GeekBrains\C#\HWRepo\HomeWork\HomeWork03\obj\Debug\HomeWork03.csprojAssemblyReference.cache
+C:\Users\Max\Desktop\GeekBrains\C#\HWRepo\HomeWork\HomeWork03\obj\Debug\HomeWork03.csproj.CoreCompileInputs.cache
+C:\Users\Max\Desktop\GeekBrains\C#\HWRepo\HomeWork\HomeWork03\obj\Debug\HomeWork03.exe
+C:\Users\Max\Desktop\GeekBrains\C#\HWRepo\HomeWork\HomeWork03\obj\Debug\HomeWork03.pdb

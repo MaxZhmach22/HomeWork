@@ -1,0 +1,6 @@
+C:\Users\Max\Desktop\GeekBrains\C#\HWRepo\HomeWork\HomeWork\bin\Debug\HomeWork.exe.config
+C:\Users\Max\Desktop\GeekBrains\C#\HWRepo\HomeWork\HomeWork\bin\Debug\HomeWork.exe
+C:\Users\Max\Desktop\GeekBrains\C#\HWRepo\HomeWork\HomeWork\bin\Debug\HomeWork.pdb
+C:\Users\Max\Desktop\GeekBrains\C#\HWRepo\HomeWork\HomeWork\obj\Debug\HomeWork01.csproj.CoreCompileInputs.cache
+C:\Users\Max\Desktop\GeekBrains\C#\HWRepo\HomeWork\HomeWork\obj\Debug\HomeWork.exe
+C:\Users\Max\Desktop\GeekBrains\C#\HWRepo\HomeWork\HomeWork\obj\Debug\HomeWork.pdb
