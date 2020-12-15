@@ -10,6 +10,8 @@ namespace HomeWork07
     {
         static void Main()
         {
+            Guess_game guess = new Guess_game();
+            guess.InitializeComponent();
         }
     }
 }
