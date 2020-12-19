@@ -1,0 +1,11 @@
+C:\Users\Max\Desktop\GeekBrains\C#\HWRepo\HomeWork\HomeWork07\bin\Debug\HomeWork07.exe.config
+C:\Users\Max\Desktop\GeekBrains\C#\HWRepo\HomeWork\HomeWork07\bin\Debug\HomeWork07.exe
+C:\Users\Max\Desktop\GeekBrains\C#\HWRepo\HomeWork\HomeWork07\bin\Debug\HomeWork07.pdb
+C:\Users\Max\Desktop\GeekBrains\C#\HWRepo\HomeWork\HomeWork07\obj\Debug\HomeWork07.csprojAssemblyReference.cache
+C:\Users\Max\Desktop\GeekBrains\C#\HWRepo\HomeWork\HomeWork07\obj\Debug\HomeWork07.Form1.resources
+C:\Users\Max\Desktop\GeekBrains\C#\HWRepo\HomeWork\HomeWork07\obj\Debug\HomeWork07.Properties.Resources.resources
+C:\Users\Max\Desktop\GeekBrains\C#\HWRepo\HomeWork\HomeWork07\obj\Debug\HomeWork07.csproj.GenerateResource.cache
+C:\Users\Max\Desktop\GeekBrains\C#\HWRepo\HomeWork\HomeWork07\obj\Debug\HomeWork07.csproj.CoreCompileInputs.cache
+C:\Users\Max\Desktop\GeekBrains\C#\HWRepo\HomeWork\HomeWork07\obj\Debug\HomeWork07.exe
+C:\Users\Max\Desktop\GeekBrains\C#\HWRepo\HomeWork\HomeWork07\obj\Debug\HomeWork07.pdb
+C:\Users\Max\Desktop\GeekBrains\C#\HWRepo\HomeWork\HomeWork07\obj\Debug\HomeWork07.FormTBox.resources
