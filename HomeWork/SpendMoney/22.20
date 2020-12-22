@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<ArrayOfMoney xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Money>
+    <Sum>7</Sum>
+    <Goods>572222</Goods>
+  </Money>
+</ArrayOfMoney>

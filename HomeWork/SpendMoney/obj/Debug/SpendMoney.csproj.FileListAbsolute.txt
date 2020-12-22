@@ -1,0 +1,10 @@
+C:\Users\Max\Desktop\GeekBrains\C#\HWRepo\HomeWork\SpendMoney\bin\Debug\SpendMoney.exe.config
+C:\Users\Max\Desktop\GeekBrains\C#\HWRepo\HomeWork\SpendMoney\bin\Debug\SpendMoney.exe
+C:\Users\Max\Desktop\GeekBrains\C#\HWRepo\HomeWork\SpendMoney\bin\Debug\SpendMoney.pdb
+C:\Users\Max\Desktop\GeekBrains\C#\HWRepo\HomeWork\SpendMoney\obj\Debug\SpendMoney.csprojAssemblyReference.cache
+C:\Users\Max\Desktop\GeekBrains\C#\HWRepo\HomeWork\SpendMoney\obj\Debug\SpendMoney.Form1.resources
+C:\Users\Max\Desktop\GeekBrains\C#\HWRepo\HomeWork\SpendMoney\obj\Debug\SpendMoney.Properties.Resources.resources
+C:\Users\Max\Desktop\GeekBrains\C#\HWRepo\HomeWork\SpendMoney\obj\Debug\SpendMoney.csproj.GenerateResource.cache
+C:\Users\Max\Desktop\GeekBrains\C#\HWRepo\HomeWork\SpendMoney\obj\Debug\SpendMoney.csproj.CoreCompileInputs.cache
+C:\Users\Max\Desktop\GeekBrains\C#\HWRepo\HomeWork\SpendMoney\obj\Debug\SpendMoney.exe
+C:\Users\Max\Desktop\GeekBrains\C#\HWRepo\HomeWork\SpendMoney\obj\Debug\SpendMoney.pdb

@@ -1,0 +1,10 @@
+C:\Users\Max\Desktop\GeekBrains\C#\HWRepo\HomeWork\TrueFalse\bin\Debug\TrueFalse.exe.config
+C:\Users\Max\Desktop\GeekBrains\C#\HWRepo\HomeWork\TrueFalse\bin\Debug\TrueFalse.exe
+C:\Users\Max\Desktop\GeekBrains\C#\HWRepo\HomeWork\TrueFalse\bin\Debug\TrueFalse.pdb
+C:\Users\Max\Desktop\GeekBrains\C#\HWRepo\HomeWork\TrueFalse\obj\Debug\TrueFalse.csprojAssemblyReference.cache
+C:\Users\Max\Desktop\GeekBrains\C#\HWRepo\HomeWork\TrueFalse\obj\Debug\TrueFalse.Form1.resources
+C:\Users\Max\Desktop\GeekBrains\C#\HWRepo\HomeWork\TrueFalse\obj\Debug\TrueFalse.Properties.Resources.resources
+C:\Users\Max\Desktop\GeekBrains\C#\HWRepo\HomeWork\TrueFalse\obj\Debug\TrueFalse.csproj.GenerateResource.cache
+C:\Users\Max\Desktop\GeekBrains\C#\HWRepo\HomeWork\TrueFalse\obj\Debug\TrueFalse.csproj.CoreCompileInputs.cache
+C:\Users\Max\Desktop\GeekBrains\C#\HWRepo\HomeWork\TrueFalse\obj\Debug\TrueFalse.exe
+C:\Users\Max\Desktop\GeekBrains\C#\HWRepo\HomeWork\TrueFalse\obj\Debug\TrueFalse.pdb

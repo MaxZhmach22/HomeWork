@@ -1,0 +1,7 @@
+C:\Users\Max\Desktop\GeekBrains\C#\HWRepo\HomeWork\ReflectionDateTime\bin\Debug\ReflectionDateTime.exe.config
+C:\Users\Max\Desktop\GeekBrains\C#\HWRepo\HomeWork\ReflectionDateTime\bin\Debug\ReflectionDateTime.exe
+C:\Users\Max\Desktop\GeekBrains\C#\HWRepo\HomeWork\ReflectionDateTime\bin\Debug\ReflectionDateTime.pdb
+C:\Users\Max\Desktop\GeekBrains\C#\HWRepo\HomeWork\ReflectionDateTime\obj\Debug\ReflectionDateTime.csproj.CoreCompileInputs.cache
+C:\Users\Max\Desktop\GeekBrains\C#\HWRepo\HomeWork\ReflectionDateTime\obj\Debug\ReflectionDateTime.exe
+C:\Users\Max\Desktop\GeekBrains\C#\HWRepo\HomeWork\ReflectionDateTime\obj\Debug\ReflectionDateTime.pdb
+C:\Users\Max\Desktop\GeekBrains\C#\HWRepo\HomeWork\ReflectionDateTime\obj\Debug\ReflectionDateTime.csprojAssemblyReference.cache
